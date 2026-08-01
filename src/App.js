@@ -11,7 +11,7 @@ function App() {
         fontFamily: "Arial",
       }}
     >
-      Patel Riddhi Jayeshkumar
+      Patel Riddhi 
     </div>
   );
 }
