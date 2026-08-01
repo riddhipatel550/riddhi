@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/riddhi/static/css/main.e6c13ad2.css",
-    "main.js": "/riddhi/static/js/main.1b5e507a.js",
+    "main.js": "/riddhi/static/js/main.cf150a22.js",
     "static/js/453.8c8b41f8.chunk.js": "/riddhi/static/js/453.8c8b41f8.chunk.js",
     "index.html": "/riddhi/index.html",
     "main.e6c13ad2.css.map": "/riddhi/static/css/main.e6c13ad2.css.map",
-    "main.1b5e507a.js.map": "/riddhi/static/js/main.1b5e507a.js.map",
+    "main.cf150a22.js.map": "/riddhi/static/js/main.cf150a22.js.map",
     "453.8c8b41f8.chunk.js.map": "/riddhi/static/js/453.8c8b41f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1b5e507a.js"
+    "static/js/main.cf150a22.js"
   ]
 }
